@@ -1,0 +1,16 @@
+<Raiz>
+  <nodo1 estado="1" codigo="2" opcao="sim">
+    <nodo2 estado="1" codigo="3" opcao="sim">
+      <nodo3 estado="1" codigo="2" opcao="sim">
+        <nodo4 estado="2" codigo="2" nomestring="string aqui" />
+      </nodo3>
+      <nodo5 estado="1" codigo="2" opcao="sim">
+        <nodo6 estado="2" codigo="3" nomestring="string aqui" />
+      </nodo5>
+    </nodo2>
+    <nodo7 estado="1" codigo="3" opcao="sim">
+      <nodo8 estado="2" codigo="4" />
+      <nodo9 estado="2" codigo="5" />
+    </nodo7>
+  </nodo1>
+</Raiz>

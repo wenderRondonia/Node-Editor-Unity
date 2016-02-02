@@ -1,0 +1,11 @@
+<Raiz>
+  <Nodo Nome="">
+    <Propriedades />
+    <PortaSaida>
+      <Nodo Nome="">
+        <Propriedades />
+        <PortaSaida />
+      </Nodo>
+    </PortaSaida>
+  </Nodo>
+</Raiz>

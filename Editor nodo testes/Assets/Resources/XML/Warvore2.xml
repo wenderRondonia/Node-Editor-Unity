@@ -1,0 +1,25 @@
+<Raiz>
+  <nodo1 titulo="titulo" texto="titulo">
+    <nodo2 titulo="titulo" texto="titulo">
+      <nodo3 titulo="titulo" texto="titulo">
+        <nodo4 titulo="titulo" texto="titulo" />
+        <nodo5 titulo="titulo" texto=" " />
+        <Node16 titulo=" " texto=" " />
+      </nodo3>
+      <nodo6 titulo="titulo" texto="titulo">
+        <nodo7 titulo="titulo" texto="titulo" />
+        <nodo8 titulo="titulo" texto=" " />
+      </nodo6>
+    </nodo2>
+    <nodo9 titulo="titulo" texto="titulo">
+      <nodo10 titulo="titulo" texto="titulo">
+        <nodo11 titulo="titulo" texto=" " />
+        <nodo12 titulo="titulo" texto=" " />
+      </nodo10>
+      <nodo13 titulo="titulo" texto="titulo">
+        <nodo14 titulo="titulo" texto=" " />
+        <nodo15 titulo="titulo" texto=" " />
+      </nodo13>
+    </nodo9>
+  </nodo1>
+</Raiz>

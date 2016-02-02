@@ -1,0 +1,16 @@
+<Raiz>
+  <nodo1 titulo="titulo" texto=" fala">
+    <nodo2 titulo="" texto=" sim">
+      <nodo3 titulo="" texto=" sim sim">
+        <Node8 titulo=" " texto=" sim sim sim" />
+      </nodo3>
+      <nodo4 titulo="" texto=" sim não">
+        <Node9 titulo=" " texto=" sim não sim" />
+      </nodo4>
+    </nodo2>
+    <nodo5 titulo="" texto="não">
+      <nodo6 titulo="" texto="não sim" />
+      <nodo7 titulo="" texto=" não nao" />
+    </nodo5>
+  </nodo1>
+</Raiz>

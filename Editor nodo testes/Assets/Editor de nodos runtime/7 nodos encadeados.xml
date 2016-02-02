@@ -1,0 +1,50 @@
+<Raiz>
+  <Nodo Nome="">
+    <Propriedades>
+      <propriedade Nome="z\z\" Valor="z\z\z\z\z" />
+      <propriedade Nome="\\\\\\\" Valor="dfdfdfdfdf" />
+      <propriedade Nome="sasas" Valor="sasas" />
+      <propriedade Nome="asas" Valor="sasasas" />
+    </Propriedades>
+    <PortaSaida>
+      <Nodo Nome="">
+        <Propriedades />
+        <PortaSaida>
+          <Nodo Nome="">
+            <Propriedades />
+            <PortaSaida>
+              <Nodo Nome="G">
+                <Propriedades />
+                <PortaSaida>
+                  <Nodo Nome="">
+                    <Propriedades />
+                    <PortaSaida>
+                      <Nodo Nome="G">
+                        <Propriedades />
+                        <PortaSaida>
+                          <Nodo Nome="">
+                            <Propriedades />
+                            <PortaSaida>
+                              <Nodo Nome="">
+                                <Propriedades />
+                                <PortaSaida>
+                                  <Nodo Nome="">
+                                    <Propriedades />
+                                  </Nodo>
+                                </PortaSaida>
+                              </Nodo>
+                            </PortaSaida>
+                          </Nodo>
+                        </PortaSaida>
+                      </Nodo>
+                    </PortaSaida>
+                  </Nodo>
+                </PortaSaida>
+              </Nodo>
+            </PortaSaida>
+          </Nodo>
+        </PortaSaida>
+      </Nodo>
+    </PortaSaida>
+  </Nodo>
+</Raiz>
